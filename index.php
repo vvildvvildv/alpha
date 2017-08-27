@@ -184,7 +184,7 @@ function test_input($data) {
 
 <?php
 print_r($_COOKIE);
-echo "<h2>Your Input:</h2>";
+echo "<h2>Current Input:</h2>";
 echo $username;
 echo "<br>";
 echo $email;
